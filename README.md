@@ -1,2 +1,2 @@
 # cxn
-<a href="https://balenmole.github.io/">Ciclismo por Naturaleza</a>
+<a href="https://balenmole.github.io/cxn/">Ciclismo por Naturaleza</a>
